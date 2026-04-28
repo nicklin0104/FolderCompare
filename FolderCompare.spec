@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['C:\\Users\\nickl\\Documents\\projects\\Gemini CLI\\FolderCompare\\folder_compare.py'],
+    ['C:\\Users\\nickl\\Documents\\projects\\0. Internal-Utilities\\FolderCompare\\folder_compare.py'],
     pathex=[],
     binaries=[],
     datas=[],
