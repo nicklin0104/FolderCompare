@@ -1,2 +1,2 @@
 @echo off
-start "" pythonw "C:\Users\nickl\Documents\projects\Gemini CLI\FolderCompare\folder_compare.py"
+start "" pythonw "C:\Users\nickl\Agent\projects\0. Internal-Utilities\FolderCompare\folder_compare.py"
